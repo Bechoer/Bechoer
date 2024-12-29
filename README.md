@@ -5,7 +5,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,git,linux,postman,vim,html,css,,js" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,git,linux,postman,vim,html,js,css" />
   </a>
 </p>
 <!---
